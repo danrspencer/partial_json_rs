@@ -1,1 +1,1 @@
-# partial_json_rs
+# SerdeBuilder
